@@ -1,10 +1,10 @@
 # Mutex and Channel basics
 
 ### What is an atomic operation?
-> *Your answer here*
+> An atomic operation is an operation that run independantly of all other operations.
 
 ### What is a semaphore?
-> *Your answer here*
+> 
 
 ### What is a mutex?
 > *Your answer here*
