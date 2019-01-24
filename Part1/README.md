@@ -24,7 +24,7 @@ different parts of the programming in wrong order. A data race occures when two 
 to access the same memory position at the same time. 
 
 ### List some advantages of using message passing over lock-based synchronization primitives.
-> *Your answer here*
+> Koden blir mindre innviklet. Det er lettere å se hva som avhenger av hva.
 
 ### List some advantages of using lock-based synchronization primitives over message passing.
-> *Your answer here*
+> 
